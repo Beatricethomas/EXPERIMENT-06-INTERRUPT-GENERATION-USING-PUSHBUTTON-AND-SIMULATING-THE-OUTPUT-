@@ -108,10 +108,9 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 ### Proteus output
 
+![Screenshot 2025-05-12 131747](https://github.com/user-attachments/assets/da2cdc7e-0eb6-4ebe-9c1a-76ace174c0fc)
 
 
-
-![Screenshot 2025-05-09 095253](https://github.com/user-attachments/assets/af740fe8-b810-4399-b1d5-e4935acecf92)
 
  
  
